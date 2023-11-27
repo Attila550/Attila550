@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/atti550" target="blank"><img src="https://img.shields.io/twitter/follow/atti550?logo=twitter&style=for-the-badge" alt="atti550" /></a> </p>
 
-- 🌱 I’m currently learning **Python, MySQL**
+- 🌱 I’m currently learning **VueJS, Language C, Kotlin**
 
 - 📫 How to reach me **attila.csomor01@gmail.com**
 
