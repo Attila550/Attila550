@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=attila550&label=Profile%20views&color=0e75b6&style=flat" alt="attila550" /> </p>
 
-<p align="left"> <a href="https://twitter.com/atti550" target="blank"><img src="https://img.shields.io/twitter/follow/atti550?logo=twitter&style=for-the-badge" alt="atti550" /></a> </p>
-
 - 🌱 I’m currently learning **VueJS, Language C, Kotlin**
 
 - 📫 How to reach me **attila.csomor01@gmail.com**
